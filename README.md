@@ -1,5 +1,6 @@
 # 👋 Hi there, I'm Alex
 ![](https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif)
+
 ## 👨‍💻 About Me
 
 🌱 **I’m a developer who loves learning and improving every day.**  
